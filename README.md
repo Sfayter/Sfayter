@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/charlie amarante" target="blank"><img align="center" src="<img align="right" alt="jpg" width="250px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" />" alt="charlie amarante" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/charlie amarante" target="blank"><img align="center" src="<img align="right" alt="jpg" width="250px" src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif" />" alt="charlie amarante" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
