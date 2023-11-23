@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charlie</h1>
 <h3 align="center">I'm a dev student from Brazil</h3>
 
-<img align="right" alt="jpg" width="300px" src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif" />
+
 
 - 🌱 I’m currently learning **JavaScript**
 
