@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **charlie.fay21@gmail.com**
 
