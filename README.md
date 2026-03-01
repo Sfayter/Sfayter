@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 Systems Analysis and Development Student 5/5<br>🌱 I’m currently learning Java<br>📧 My best E-mail charlie.fay21@gmail.com
+🔭 Systems Analysis and Development<br>🌱 I’m currently learning Pyhon<br>📧 My best E-mail charlie.fay21@gmail.com
 
 
 ## 🌐 Socials:
