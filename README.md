@@ -1,4 +1,3 @@
-Linux, Python, MySQL e Git
 # 💫 About Me:
 🔭 Systems Analysis and Development<br>🌱 I’m currently learning Pyhon<br>📧 My best E-mail charlie.fay21@gmail.com
 
