@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Systems Analysis and Development<br>🌱 I’m currently learning Pyhon<br>📧 My best E-mail charlie.fay21@gmail.com
+🔭 Systems Analysis and Development<br>🌱 I’m currently learning Pyhon and Ruby<br>📧 My best E-mail charlie.fay21@gmail.com
 
 
 ## 🌐 Socials:
@@ -19,6 +19,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sfayter&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
